@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	height:100%;
+	margin:0;
+	padding:0;
+	direction:rtl;
+}
+
+.menu{
+	margin:0 auto;
+	height:35px;
+	width:980px;
+	position:fixed;
+}
+
+ul{
+	list-style:none;
+	align-content:center;
+	}
+
+li{
+	float:right
+}
+
+.amenu{
+	font-family:yekan;
+	size:30px;
+	text-decoration:none;
+	border-color:#593816;
+	border-left:solid;
+	border-left-width:2px;
+	padding:15px;
+}
+.thelast{
+	border:0;
+}
+.amenu:link{
+	color:#593816;
+	}
+	
+.amenu:hover{
+	color:#;
+	}
+	
+.amenu:visited{
+	color:#333333
+	}
+	
+.welcome{
+	width:980px;
+	min-height:100%;
+	background-image:url(pics/Zoo1.jpg);
+	background-repeat:no-repeat;
+}
+
